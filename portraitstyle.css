@@ -3,6 +3,7 @@
 }
 body {
     margin: 0;
+    background-color: antiquewhite;
     padding: 0;
 }
 main#principal{
@@ -28,9 +29,8 @@ section#login > h1{
     text-align: center;
 }
 section#login > p > label{
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
+    
+    
     margin-top: -20px;
     margin-bottom: 6px;
     
